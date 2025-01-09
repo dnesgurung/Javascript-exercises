@@ -1,1 +1,1 @@
-Another solution for finding a palindrome number
+How to find whether a string is a palindrome or not.
