@@ -1,0 +1,1 @@
+Destructuring an object
