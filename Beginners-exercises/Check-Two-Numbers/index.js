@@ -12,3 +12,7 @@ function checkNumbers ( a, b) {
 }
 
 console.log(checkNumbers(50, 0));
+
+// Tutor's solution
+
+const isEqualTo100 = (a,b) => a === 100 || b === 100 || (a + b) === 100;
