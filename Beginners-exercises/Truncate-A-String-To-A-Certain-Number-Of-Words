@@ -1,0 +1,5 @@
+Truncate a string to a certain number of words
+
+example:
+  console.log(truncate('have a nice day', 3)'
+output: 'have a nice'
